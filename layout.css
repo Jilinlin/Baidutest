@@ -1,4 +1,5 @@
 /* （一）百度原网页样式 */
+
 *{
     padding: 0;
     margin: 0;
@@ -219,7 +220,7 @@ div {
     font-size: 13px;
 }
 
-/* 手机号框 */
+/* 3、手机号框 */
 .tellabel{
     font-size: 14px;
     color: #333;
@@ -276,7 +277,7 @@ div {
     font-weight: bolder;
     color: white;   
 }
-/* 密码框 */
+/* 4、密码框 */
 .pwdlabel{
     font-size: 14px;
     color: #333;
@@ -381,7 +382,7 @@ div {
     left: 98px;
     font-size: 13px;
 }
-/* 验证码框 */
+/* 5、验证码框 */
 .codelabel{
     font-size: 14px;
     color: #333;
@@ -435,7 +436,7 @@ div {
     left: 98px;
     font-size: 13px;
 }
-/* 注册按钮 */
+/* 6、注册按钮 */
 .zhuce{
     position: absolute;
     top: 370px;
@@ -450,7 +451,7 @@ div {
     display: block;
     color: #fff;
 }
-/* 协议 */
+/* 7、协议 */
 .xieyi{
     position: absolute;
     top: 430px;

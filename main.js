@@ -1,5 +1,5 @@
 $(function(){
-    //获取数据
+    //1、获取数据
     var $username = $('#username'),
         $tel = $('#tel'),
         $pwd = $('#pwd'),
@@ -17,7 +17,7 @@ $(function(){
     var tippwdclicks = 0;
     var seconds = 10;
 
-    //发送验证码
+    //2、发送验证码
     $getCode.click(function(){
         var time = setInterval(function(){
             seconds--;
